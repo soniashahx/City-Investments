@@ -1,3 +1,104 @@
+<<<<<<< HEAD
+title{
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	padding-top: 80px;
+	color: #ddd
+}
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	padding-top: 80px;
+}
+header,footer{
+	background-color: #737373;
+	color: #ddd
+	padding: 30px;
+	text-align: center;
+}
+
+
+.navbar-inverse .navbar-nav>li>a{
+	color: #bbb;
+=======
+body {
+	background-color: lightpink;
+	font-family: 'Raleway', sans-serif;
+}
+
+nav li {
+	
+	display: inline-block;
+}
+
+nav a {
+	background-color: orange;
+	display: block;
+	padding: 20px;
+	text-decoration: none;
+	text-transform: uppercase;
+
+}
+
+nav a:hover {
+	text-decoration: none;
+	color: white;
+>>>>>>> origin/master
+}
+
+
+.carousel{
+	margin: 40px 0px;
+
+}
+.carousel img{
+	width: 100%;
+	height: auto;
+
+<<<<<<< HEAD
+}
+=======
+h1 {
+	font-size: 60px;
+	color: white;
+	font-family: 'Cinzel', serif;
+}
+
+nav {
+	background-color: paleturquoise;
+	display: block;
+}
+
+.container {
+	background-color: palegreen;
+	overflow: auto;
+}
+
+form {
+	background-color: palevioletred;
+}
+
+form label, form input {
+	display: block;
+}
+
+header {
+	text-align: center;
+	border-bottom: 1px solid lightgrey;
+	background-color: palegoldenrod;
+	margin-bottom: 20px;
+}
+
+article {
+	background-color: papayawhip;
+}
+
+aside {
+	border-left: 1px solid lightgrey;
+}
+
+>>>>>>> origin/master
+
 /*navigation bar start*/
 ul li {
   	
