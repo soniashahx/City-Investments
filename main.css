@@ -44,11 +44,44 @@ background-color: white;
   
  /*navigation bar end*/
  
- .nav, footer {
- 	clear: both;
- }
+ .nav, 
  
- p {
- 	font-size: 16px;
- }
- 
+
+footer {h1 {
+	font-size: 60px;
+	color: white;
+	font-family: 'Cinzel', serif;
+}
+
+nav {
+	background-color: paleturquoise;
+	display: block;
+}
+
+.container {
+	background-color: palegreen;
+	overflow: auto;
+}
+
+form {
+	background-color: palevioletred;
+}
+
+form label, form input {
+	display: block;
+}
+
+header {
+	text-align: center;
+	border-bottom: 1px solid lightgrey;
+	background-color: palegoldenrod;
+	margin-bottom: 20px;
+}
+
+article {
+	background-color: papayawhip;
+}
+
+aside {
+	border-left: 1px solid lightgrey;
+}
