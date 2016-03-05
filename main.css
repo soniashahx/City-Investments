@@ -56,4 +56,6 @@ background-color: white;
 
 #twitter:hover {
    background-image: url('twitter.png');
+   height: 32px;
+   width: 32px;
 }
