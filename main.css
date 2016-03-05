@@ -59,3 +59,27 @@ background-color: white;
    height: 32px;
    width: 32px;
 }
+
+#facebook {
+   background-image: url('facebook-4-xl.png');
+   height: 32px;
+   width: 32px;
+}
+
+#facebook:hover {
+   background-image: url('facebook.png');
+   height: 32px;
+   width: 32px;
+}
+
+#instagram {
+   background-image: url('instagram-4-xl.png');
+   height: 32px;
+   width: 32px;
+}
+
+#instagram:hover {
+   background-image: url('instagram.png');
+   height: 32px;
+   width: 32px;
+}
