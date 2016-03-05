@@ -46,6 +46,11 @@ background-color: white;
  
 .nav, 
 
+.logo {
+	align: center
+	design: inline-block
+}
+
 .twitter-roll {
 	background-image: url("twitter-4-xl.png");
 	height: 48px;
