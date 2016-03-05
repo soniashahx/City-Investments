@@ -46,7 +46,7 @@ background-color: white;
  
  .nav, 
  
-.footer {align: center}
+.container-fluid {align: center}
  
 #twitter {
    background-image: url('twitter-4-xl.png');
