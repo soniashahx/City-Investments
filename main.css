@@ -56,6 +56,6 @@ background-color: white;
  background:transparent url('twitter-4-xl.png') center top no-repeat;
 }
 
-.twitterbird:hover {
+.twitter:hover {
    background-image: url('twitter.png');
 }
