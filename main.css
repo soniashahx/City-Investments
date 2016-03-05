@@ -50,37 +50,37 @@ background-color: white;
   display: inline-block;
 }
  
-#twitter {
+.twitter {
    background-image: url('twitter-4-xl.png');
    height: 40px;
    width: 40px;
 }
 
-#twitter:hover {
+.twitter:hover {
    background-image: url('twitter.png');
    height: 40px;
    width: 40px;
 }
 
-#facebook {
+.facebook {
    background-image: url('facebook-4-xl.png');
    height: 40px;
    width: 40px;
 }
 
-#facebook:hover {
+.facebook:hover {
    background-image: url('facebook.png');
    height: 40px;
    width: 40px;
 }
 
-#instagram {
+.instagram {
    background-image: url('instagram-4-xl.png');
    height: 40px;
    width: 40px;
 }
 
-#instagram:hover {
+.instagram:hover {
    background-image: url('instagram.png');
    height: 40px;
    width: 40px;
