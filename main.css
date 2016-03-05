@@ -67,14 +67,14 @@ background-color: white;
 
 .facebook {
    background-image: url('facebook-4-xl.png');
-   height: 60px;
-   width: 60px;
+   height: 63px;
+   width: 63px;
 }
 
 .facebook:hover {
    background-image: url('facebook.png');
-   height: 60px;
-   width: 60px;
+   height: 63px;
+   width: 63px;
 }
 
 .instagram {
