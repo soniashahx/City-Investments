@@ -46,40 +46,42 @@ background-color: white;
  
  .nav, 
  
-.logo {align: center}
+.logo {align: center
+  display: inline-block;
+}
  
 #twitter {
    background-image: url('twitter-4-xl.png');
-   height: 32px;
-   width: 32px;
+   height: 40px;
+   width: 40px;
 }
 
 #twitter:hover {
    background-image: url('twitter.png');
-   height: 32px;
-   width: 32px;
+   height: 40px;
+   width: 40px;
 }
 
 #facebook {
    background-image: url('facebook-4-xl.png');
-   height: 32px;
-   width: 32px;
+   height: 40px;
+   width: 40px;
 }
 
 #facebook:hover {
    background-image: url('facebook.png');
-   height: 32px;
-   width: 32px;
+   height: 40px;
+   width: 40px;
 }
 
 #instagram {
    background-image: url('instagram-4-xl.png');
-   height: 32px;
-   width: 32px;
+   height: 40px;
+   width: 40px;
 }
 
 #instagram:hover {
    background-image: url('instagram.png');
-   height: 32px;
-   width: 32px;
+   height: 40px;
+   width: 40px;
 }
