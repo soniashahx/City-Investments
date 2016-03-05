@@ -49,3 +49,13 @@ background-color: white;
  .logo {align: center}
  
 
+.twitter {margin-bottom: 10px;
+ width: 160px;
+ height:160px;
+ display:block;
+ background:transparent url('twitter-4-xl.png') center top no-repeat;
+}
+
+.twitterbird:hover {
+   background-image: url('twitter.png');
+}
