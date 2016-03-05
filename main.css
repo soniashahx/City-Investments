@@ -44,10 +44,13 @@ background-color: white;
   
  /*navigation bar end*/
  
- .nav, 
+.nav, 
+
+
  
-.logo {align: center
-  display: inline-block;
+.logo {
+      align: center
+      display: inline-block;
 }
  
 .twitter {
