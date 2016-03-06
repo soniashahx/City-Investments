@@ -45,7 +45,7 @@ background-color: white;
  /*navigation bar end*/
  
 .social-twitter {
-background-image: "twitter-4-xl.png";
+background-image: url"twitter-4-xl.png";
 	height: 48px;
 	width: 48px;
 	margin: 10px;
@@ -59,7 +59,7 @@ background-image: "twitter-4-xl.png";
 }
 
 .social-twitter:hover {
-	background-image: "twitter.png";
+	background-image: url"twitter.png";
 	box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.8);
 	-webkit-transform:rotate(360deg);
 	-moz-transform:rotate(360deg);
