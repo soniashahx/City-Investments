@@ -43,7 +43,7 @@ background-color: white;
   }
   
  /*navigation bar end*/
- 
+ .icon {align:center}
 .social-twitter {
 background-image: url"twitter-4-xl.png";
 	height: 48px;
